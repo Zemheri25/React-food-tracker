@@ -1,0 +1,12 @@
+.cardcontent {
+    background-color: #E7E6F5;
+    width: 100%;
+    max-height: 15rem;
+    
+    
+}
+
+.card {
+    box-shadow: 5px 5px 10px grey;
+}
+
